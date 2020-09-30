@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "poc.pucminas"
+    },
+    "jhipsterVersion": "6.10.1",
+    "applicationType": "microservice",
+    "baseName": "Ativo",
+    "packageName": "poc.pucminas",
+    "packageFolder": "poc/pucminas",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "OTI0ODRmM2YyMTA1OWQ1YTVmZWJiZTU4ZDA0ZjRjZjdmZGFiNjNmMjVkNWI2Mzg0NzZhNTUwY2NlNjE2NzQxYWVhNGJlMzY5MjJmMGE1ZDA5OTYwYjM5MTljZTMwNzRmMTNkNjllNjQ4OWE1ZWRiODA4NTY2NDk3OThkNWQ4MzQ=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1601428940297,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
